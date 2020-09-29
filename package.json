@@ -1,0 +1,9 @@
+{
+  "name": "@areskul/minimal-dimension",
+  "version": "1.0.0",
+  "private": false,
+  "main": "dimension.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
